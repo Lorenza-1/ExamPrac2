@@ -4,8 +4,8 @@
  */
 package com.mycompany.question1_2;
 
-import com.mycompany.question1.IMovieTickets;
-import com.mycompany.question1.MovieTickets;
+import com.mycompany.question1_2.IMovieTickets;
+import com.mycompany.question1_2.MovieTickets;
 
 import org.junit.jupiter.api.Test;
 import static org.junit.jupiter.api.Assertions.assertEquals;
